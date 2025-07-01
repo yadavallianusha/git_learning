@@ -1,2 +1,4 @@
-# git_learning
-this is to learn git
+a=2
+b=4
+a+b=c
+print(c)
